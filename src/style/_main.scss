@@ -1,0 +1,34 @@
+@import "./_reset.scss";
+@import "./_base.scss";
+@import "./_vars.scss";
+body {
+  height: 100%;
+}
+
+.header {
+  height: 15vh;
+  min-width: 99%;
+}
+
+.section-main {
+  height: 71.7vh;
+  min-width: 99%;
+  border: 10px solid grey;
+}
+.main {
+  width: 73.5%;
+  height: 97%;
+}
+
+.aside {
+  width: 24.38%;
+  height: 97%;
+  float: left;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  height:5vh;
+  min-width: 99%;
+}
