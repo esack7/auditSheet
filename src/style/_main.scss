@@ -16,19 +16,19 @@ body {
   border: 10px solid grey;
 }
 .main {
-  width: 73.5%;
-  height: 97%;
+  min-width: 74.1%;
+  height: 97.6%;
 }
 
 .aside {
-  width: 24.38%;
-  height: 97%;
+  min-width: 24%;
+  height: 97.6%;
   float: left;
 }
 
 .footer {
   position:absolute;
   bottom:0;
-  height:5vh;
+  height:8.5vh;
   min-width: 99%;
 }
